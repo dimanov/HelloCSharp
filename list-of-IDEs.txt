@@ -1,0 +1,20 @@
+Visual Studio IDE is mostly used by corporate programmers to produce .NET code.
+Intellisense is Microsoft’s way to make programming in .NET as painless as possible. When you start programming in Visual Studios IDE you will notice a suggestion box will appear when you start typing anything within the IDE, this is to notify the user what methods and functions are available.
+When clicking on one of the methods in the suggestion box the environment will tell you exactly what the method will do and how many and what parameters are needed. The ability to make decisions on what functions and methods to use based on intellisense is a powerful feature that many would find useful,
+-----------------------------------
+
+The Eclipse interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more. Anyone is free to develop plug-ins for different languages and to make the development environment easier to use. Also, the ability to use this on Linux is a great way for many people who don’t like to be bound by Microsoft’s operating systems and like full control of their OS. Besides being fully customizable and extensible, the next best thing about eclipse is it’s free.
+-----------------------------------
+
+Netbeans program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. Instead of having multiple programs for multiple different languages it combies them into one program.
+------------------------------------
+
+Kate resembles a text editor. Its Code Folding feature is probably one of the best features for kate. There is a small column to the left of the code. On any line that has an opening bracket that column will have an arrow next to it. If you click the arrow, it will fold all of the code between the opening and closing brackets. Very useful for large source packages.
+------------------------------------
+
+gedit is the official editor of the gnome desktop and comes installed once the system is setup.
+gedit offers the ability to highlight your code and figure out where the bugs are by giving you a fresh perspective. This can also be used for web development, to help developers see where the start of nodes are and where to submit the end nodes, doing this could cut down drastically on XHTML issues.
+-----------------------------------
+
+
+ 
